@@ -1,58 +1,80 @@
+
 # Hi, I'm Mohamed Mostafa 👋
 
-### Software Development & Engineering | .NET Developer
+### Software Engineering Lead | .NET Developer
 
-I'm a software developer specializing in building and maintaining enterprise web applications, administrative systems, and database-driven solutions.
+I design, develop, and maintain enterprise web applications and database-driven systems, with a focus on building secure, reliable, and scalable software solutions.
 
-My work focuses on developing reliable, secure, and scalable applications using **ASP.NET Core MVC, C#, Entity Framework Core, and Microsoft SQL Server**.
+My experience includes administrative systems, business workflow automation, database development, reporting solutions, and digital transformation initiatives.
 
-I have experience working on business applications, system modernization, workflow automation, reporting, user management, and digital transformation initiatives.
+---
 
-## 🛠️ Technical Skills
+### 🛠️ Tech Stack
 
-**Backend Development**
-- C# / ASP.NET Core MVC / ASP.NET MVC
-- Entity Framework Core / LINQ
-- RESTful APIs
-- Authentication & Role-Based Authorization
+**Backend & Frameworks**
 
-**Database Development**
-- Microsoft SQL Server
-- T-SQL, Stored Procedures & Database Design
-- Data Migration & Database Maintenance
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Entity Framework Core](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-0078D4?style=flat-square)
 
-**Frontend Development**
-- HTML5, CSS3, JavaScript
-- Bootstrap, Razor Views
-- Responsive Web Interfaces
+**Database & Infrastructure**
 
-**Development Tools**
-- Visual Studio
-- Git & GitHub
-- SQL Server Management Studio (SSMS)
-- IIS Deployment
+![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=flat-square)
+![IIS](https://img.shields.io/badge/IIS-0078D4?style=flat-square)
 
-## 💼 Areas of Experience
+**Frontend**
 
-- Enterprise Application Development
-- Administrative & Management Information Systems
-- Database-Driven Web Applications
-- Digital Transformation & Legacy System Modernization
-- User Management and Access Control
-- Reporting, Dashboards & Workflow Automation
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-## 🚀 What I'm Working On
+**Tools & Version Control**
 
-- Improving enterprise application architecture and maintainability
-- Building secure ASP.NET Core web applications
-- Enhancing SQL Server database performance
-- Expanding my experience with Git workflows and automated delivery
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-24292F?style=flat-square&logo=github&logoColor=white)
+![SSMS](https://img.shields.io/badge/SQL_Server_Management_Studio-CC2927?style=flat-square)
 
-## 📫 Connect With Me
+---
 
-**LinkedIn:** [Mohamed Mostafa](https://www.linkedin.com/in/mohamed4mostafa)
+### 💼 Professional Expertise
 
-**GitHub:** [Mo4Mostafa](https://github.com/Mo4Mostafa)
+- Enterprise Web Application Development
+- ASP.NET Core MVC & C# Development
+- Database Design, Optimization & Data Migration
+- Authentication & Role-Based Access Control
+- Business Workflow Automation
+- Legacy System Modernization
+- Reporting Systems & Dashboards
+- Application Deployment & Maintenance
+
+---
+
+### 🚀 Current Focus
+
+- Designing maintainable enterprise application architectures
+- Improving application performance and database efficiency
+- Building secure ASP.NET Core solutions
+- Applying professional Git and GitHub workflows
+- Exploring CI/CD and software delivery automation
+
+---
+
+### 📂 Featured Projects
+
+I'm preparing a selection of independent, public portfolio projects demonstrating enterprise application development, database design, and modern .NET practices.
+
+---
+
+### 🤝 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed_Mostafa-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed4mostafa)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Mo4Mostafa-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/Mo4Mostafa)
 
 ---
 
